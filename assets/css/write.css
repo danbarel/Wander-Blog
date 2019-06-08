@@ -1,0 +1,53 @@
+nav {
+    background-color: hsl(100, 10%, 6%);
+}
+
+.navbar {
+    padding: 0;
+}
+
+.write-post {
+    width: 85%;
+    margin: 100px auto;
+    padding: 40px;
+    background-color: hsl(90,5%,100%);
+    box-shadow: 0px 1px 3px hsla(0,0%,0%,0.05);
+}
+
+.heading {
+    margin: 0 0 60px;
+}
+
+.heading h1 {
+    text-align: center;
+}
+
+.write-post .row {
+    margin-bottom: 40px;
+}
+
+.write-post h1 {
+    font-size: 24px;
+    letter-spacing: 2px; 
+}
+
+.write-post h4 {
+    font-family: 'Alegreya', serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+.write-post input[type="text"], .write-post input[type="email"], .write-post textarea {
+    width:100%;
+    margin-bottom: 20px;
+}
+
+.write-post textarea {
+    height: 500px;
+}
+
+.write-post button {
+    width: 100%;
+    margin-top: 20px;
+}

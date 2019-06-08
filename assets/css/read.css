@@ -1,0 +1,128 @@
+.post {
+    width: 100%;
+    background-color: hsl(90,5%,100%);
+}
+
+.read-box-text h1{
+    font-size: 48px;
+    letter-spacing: 2px;
+}
+
+.read-box-text p {
+    font-size: 12px;
+    color: hsl(90,5%,100%);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-top: 30px;
+}
+
+.blog-post {
+    width: 100%;
+}
+
+.post-container {
+    width: 60%;
+    margin: 0px auto;
+    padding: 100px 0;
+}
+
+.blog-post h4 {
+    margin-bottom: 24px;
+}
+
+.blog-post hr {
+    text-align: left;
+    margin: 40px 0;
+}
+
+.blog-post p {
+    letter-spacing: 0.5px;
+    margin: 20px 0;
+}
+
+.blog-post a {
+    font-size: 14px;
+}
+
+.mini-gallery {
+    width: 100%;
+    max-height: 300px;
+}
+
+.mini-gallery img {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.more-articles {
+    width: 100%;
+    max-height: 500px;
+}
+
+.more-articles h4 {
+    text-align: center;
+    margin: 50px 0 0;
+}
+
+.more-articles .row {
+    margin: 50px 0;
+}
+
+.more-articles .img-card {
+    height: 100%;
+    width: 100%;
+}
+
+.more-articles img {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.more-articles h6 {
+    text-align: center;
+    margin: 18px 0;
+}
+
+.comments {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.comments-hr {
+    width: 100%;
+    border-top: 1px solid hsl(208,21%,88%);
+}
+
+.comments .comments-heading {
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.comments h6 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+    margin: 14px 0;
+}
+
+.add-comment {
+    margin-bottom: 50px;
+}
+
+.add-comment input[type="text"], .add-comment input[type="email"], .add-comment textarea {
+    width:100%;
+    margin-bottom: 20px;
+}
+
+.add-comment textarea {
+    height: 200px;
+}
+
+.add-comment button {
+    margin-top: 0;
+    padding: 8px 20px;
+    font-size: 12px;
+    text-transform: uppercase;
+}
